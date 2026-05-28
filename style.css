@@ -1,0 +1,17 @@
+body{
+    background-color:pink;
+}
+h1{
+    font-size: 60px;
+    color: aquamarine;
+    text-align: center;
+}
+p{
+font-size: 20px;
+color: deeppink;
+text-align: center;
+}
+img{
+    width: 10%;
+    margin-left: 850px;
+}
