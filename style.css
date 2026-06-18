@@ -1,14 +1,14 @@
 body{
-    background-color:pink;
+    background-color:#533863;
 }
 h1{
     font-size: 60px;
-    color: aquamarine;
+    color: #77F8CD;
     text-align: center;
 }
 p{
 font-size: 20px;
-color: deeppink;
+color: rgb(185, 111, 214);
 text-align: center;
 }
 img{
